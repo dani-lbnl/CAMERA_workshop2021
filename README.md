@@ -17,9 +17,9 @@ Neural networks became ubiquitous across many image analysis tasks, such as sema
 </table>
 
 ## Dataset examples:
-<a href="https://zenodo.org/record/3890837#.Xue18WpKiA1"> MicroCT </a>
-<a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/gisaxs.zip"> GISAXS </a>
-<a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/confocal.png"> Confocal </a>
+- <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1"> MicroCT </a>
+- <a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/gisaxs.zip"> GISAXS </a>
+- <a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/confocal.png"> Confocal </a>
 
 ## Related publications:
  - Xu, Tremsin, Li, Ushizima, Davy, Bouterf, Su, Marroccoli, Mauro, Osanna, Telesca, Monteiro, "Microstructure and Water Absorption of Ancient Concrete from Pompeii: An Integrated Synchrotron Microtomography and Neutron Radiography Characterization", Cement and Concrete Research [link].
