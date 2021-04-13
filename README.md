@@ -25,3 +25,8 @@ Neural networks became ubiquitous across many image analysis tasks, such as sema
  - Xu, Tremsin, Li, Ushizima, Davy, Bouterf, Su, Marroccoli, Mauro, Osanna, Telesca, Monteiro, "Microstructure and Water Absorption of Ancient Concrete from Pompeii: An Integrated Synchrotron Microtomography and Neutron Radiography Characterization", Cement and Concrete Research [link].
 
  - Ushizima, Xu, Monteiro, "Materials Data Science for Microstructural Characterization of Archaeological Concrete", MRS Advancements - special issue: Materials Data Science, 2020. [link]
+
+- Siqueira, Ushizima, van de Walt, "Large-scale fiber segmentation on fiber beds using convolutional neural networks", 2021. [link](https://arxiv.org/abs/2101.04823)
+
+- Araujo, Carneiro, Silva, Medeiros, Ushizima,  "Convolutional Neural Networks with Tensorflow: theory and practice, p. 382-406. Brazilian Society of Computation Press 2017 [link](https://docplayer.com.br/57119969-Redes-neurais-convolucionais-com-tensorflow-teoria-e-pratica.html)
+- 
