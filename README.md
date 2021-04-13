@@ -1,4 +1,4 @@
-# CAMERA_workshop2021
+# CAMERA Autonomous Discovery - NN & Image Analysis
 
 Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science and Engineering Workshop 2021. 
 -	[Autonomous Discovery Workshop](https://autonomous-discovery.lbl.gov/): CAMERA workshop on math, algorithms and computation for self-driving labs;
@@ -12,7 +12,7 @@ Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science 
     </td>
     <td>
      <p>
-      - <i> Microstructural Characterization of Archeological Specimens from XRT </i> <a href="https://github.com/dani-lbnl/DXC2020/blob/master/DXC2020dani.pdf">[pdf]</a> 
+      - Neural networks became ubiquitous across many image analysis tasks, including semantic segmentation (a pixel-level classification), object detection (localization of pixel clusters) and instance segmentation (object individually segmented) as well as classification of the image as a whole. Understanding the problem at questions is key    
       <p>
       - MicroCT <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1">[data]</a> <p>
       - GISAXS <a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/confocal.png">[data]</a>
