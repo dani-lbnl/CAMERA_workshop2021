@@ -1,7 +1,7 @@
 # CAMERA Autonomous Discovery - NN & Image Analysis
 
 Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science and Engineering Workshop 2021. 
--	[Autonomous Discovery Workshop](https://autonomous-discovery.lbl.gov/): CAMERA workshop on math, algorithms and computation for self-driving labs;
+-	[Autonomous Discovery Workshop](https://autonomous-discovery.lbl.gov/): a CAMERA workshop on math, algorithms and computation for self-driving labs;
 -	invited talk to session [Neural Networks for Image Analysis](https://autonomous-discovery.lbl.gov/agenda/day-1-april-20th);
 
 <table border="0">
@@ -15,6 +15,22 @@ Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science 
 Neural networks became ubiquitous across many image analysis tasks, such as semantic segmentation (a pixel-level classification), object detection (localization of pixel clusters) and instance segmentation (object individually segmented) as well as classification of the image as a whole. Understanding the science problem together with stakeholders is key to develop the right algorithm. This tutorial summarizes the differences between different approaches and shows real code with examples to solve real scientific questions, such as characterizing batteries, rocks, films, and plant roots.
  </tr>
 </table>
+
+## Please reference us:
+ <div class="row">
+      <pre class="col-md-offset-2 col-md-8">
+@InProceedings{CAMERA:2021:dani,
+author = {Daniela Ushizima},
+title = {Neural Networks for Scientific Images},
+booktitle = {Autonomous Discovery in Science and Engineering},
+month = {Apr},
+year = {2021},
+pages = {1},
+publisher = "Center for Advanced Mathematics for Energy Research Applications",
+address = {Berkeley, CA},
+}
+</pre>
+    </div>
 
 ## Dataset examples:
 - MicroCT of <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1"> Rock </a> and <a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/gisaxs.zip"> Battery </a>
@@ -33,18 +49,3 @@ Neural networks became ubiquitous across many image analysis tasks, such as sema
 
 - Araujo, Carneiro, Silva, Medeiros, Ushizima,  "Convolutional Neural Networks with Tensorflow: theory and practice, p. 382-406. Brazilian Society of Computation Press 2017 [link](https://docplayer.com.br/57119969-Redes-neurais-convolucionais-com-tensorflow-teoria-e-pratica.html)
 
-Please reference us:
- <div class="row">
-      <pre class="col-md-offset-2 col-md-8">
-@InProceedings{CAMERA:2021:dani,
-author = {Daniela Ushizima},
-title = {Neural Networks for Scientific Images},
-booktitle = {Autonomous Discovery in Science and Engineering},
-month = {Apr},
-year = {2021},
-pages = {1},
-publisher = "Center for Advanced Mathematics for Energy Research Applications",
-address = {Berkeley, CA},
-}
-</pre>
-    </div>
