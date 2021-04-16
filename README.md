@@ -26,7 +26,7 @@ booktitle = {Autonomous Discovery in Science and Engineering},
 month = {Apr},
 year = {2021},
 pages = {1},
-publisher = "Center for Advanced Mathematics for Energy Research Applications",
+publisher = {Center for Advanced Mathematics for Energy Research Applications},
 address = {Berkeley, CA},
 }
 </pre>
@@ -47,5 +47,5 @@ address = {Berkeley, CA},
 
 - Siqueira, Ushizima, van de Walt, "Large-scale fiber segmentation on fiber beds using convolutional neural networks", 2021. [[link]](https://arxiv.org/abs/2101.04823)
 
-- Araujo, Carneiro, Silva, Medeiros, Ushizima,  "Convolutional Neural Networks with Tensorflow: theory and practice, p. 382-406. Brazilian Society of Computation Press 2017 [link](https://docplayer.com.br/57119969-Redes-neurais-convolucionais-com-tensorflow-teoria-e-pratica.html)
+- Araujo, Carneiro, Silva, Medeiros, Ushizima, "Convolutional Neural Networks with Tensorflow: theory and practice, p. 382-406. Brazilian Society of Computation Press 2017 [[link]](https://docplayer.com.br/57119969-Redes-neurais-convolucionais-com-tensorflow-teoria-e-pratica.html)
 
