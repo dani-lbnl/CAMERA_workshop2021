@@ -34,7 +34,7 @@ address = {Berkeley, CA}, }</pre> </div>
 Dataset examples:
 -----------------
 
--	MicroCT of <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1"> Rock </a> and <a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/gisaxs.zip"> Battery </a>
+-	MicroCT of <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1"> Rock </a> and <a href="https://scx2.b-cdn.net/gfx/news/hires/2013/libatterydendrites1.jpg"> Battery </a>
 -	<a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/gisaxs.zip"> GISAXS </a>
 -	<a href="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/confocal.png"> Confocal </a>
 
