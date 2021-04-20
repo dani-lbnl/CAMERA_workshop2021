@@ -11,7 +11,7 @@ Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science 
     </td>
     <td>
      <p>
-Neural networks became ubiquitous across many image analysis tasks, such as semantic segmentation (a pixel-level classification), object detection (localization of pixel clusters) and instance segmentation (object individually segmented) as well as classification of the image as a whole. Understanding the science problem together with stakeholders is key to develop the right algorithm. This tutorial summarizes the differences between different approaches and shows real code with examples to solve scientific questions, such as characterizing batteries, rocks, cells, and plant roots.
+Neural networks became ubiquitous across many image analysis tasks, such as semantic segmentation (a pixel-level classification), object detection (localization of pixel clusters) and instance segmentation (object individually segmented) as well as classification of the image as a whole. Understanding the science problem together with stakeholders is key to develop the right algorithm. This tutorial summarizes the differences between different approaches and shows real code with examples to solve scientific questions, such as characterizing batteries, rocks, cells, lungs, and plant roots.
  </tr>
 </table>
 
