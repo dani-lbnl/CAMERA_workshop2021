@@ -35,7 +35,7 @@ Newbie? no problem:
 Related publications:
 ---------------------
 
--	Xu, Tremsin, Li, Ushizima, Davy, Bouterf, Su, Marroccoli, Mauro, Osanna, Telesca, Monteiro, "Microstructure and Water Absorption of Ancient Concrete from Pompeii: An Integrated Synchrotron Microtomography and Neutron Radiography Characterization", Cement and Concrete Research \[[link]]().
+-	Xu, Tremsin, Li, Ushizima, Davy, Bouterf, Su, Marroccoli, Mauro, Osanna, Telesca, Monteiro, "Microstructure and Water Absorption of Ancient Concrete from Pompeii: An Integrated Synchrotron Microtomography and Neutron Radiography Characterization", Cement and Concrete Research [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0008884620315623).
 
 -	Ushizima, Xu, Monteiro, "Materials Data Science for Microstructural Characterization of Archaeological Concrete", MRS Advancements - special issue: Materials Data Science, 2020. [[link]](https://bit.ly/dxc2020)
 
