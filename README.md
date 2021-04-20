@@ -18,7 +18,16 @@ Neural networks became ubiquitous across many image analysis tasks, such as sema
 Please reference us:
 --------------------
 
-<div class="row"> <pre class="col-md-offset-2 col-md-8"> @InProceedings{CAMERA:2021:dani, author = {Daniela Ushizima}, title = {Neural Networks for Scientific Images}, booktitle = {Autonomous Discovery in Science and Engineering}, month = {Apr}, year = {2021}, pages = {1}, publisher = {Center for Advanced Mathematics for Energy Research Applications}, address = {Berkeley, CA}, }</pre> </div>
+<div class="row"> <pre class="col-md-offset-2 col-md-8"> 
+@InProceedings{CAMERA:2021:dani, 
+author = {Daniela Ushizima}, 
+title = {Neural Networks for Scientific Images}, 
+booktitle = {Autonomous Discovery in Science and Engineering}, 
+month = {Apr}, 
+year = {2021}, 
+pages = {1}, 
+publisher = {Center for Advanced Mathematics for Energy Research Applications}, 
+address = {Berkeley, CA}, }</pre> </div>
 
 Dataset examples:
 -----------------
