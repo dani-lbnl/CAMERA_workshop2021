@@ -1,7 +1,9 @@
 CAMERA Autonomous Discovery - NN & Image Analysis
 =================================================
 
-Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science and Engineering Workshop 2021. - [Autonomous Discovery Workshop](https://autonomous-discovery.lbl.gov/): a CAMERA workshop on math, algorithms and computation for self-driving labs; - invited talk to session [Neural Networks for Image Analysis](https://autonomous-discovery.lbl.gov/agenda/day-1-april-20th);
+Enjoy this tutorial prepared for the the CAMERA Autonomous Discovery in Science and Engineering Workshop 2021. 
+- [Autonomous Discovery Workshop](https://autonomous-discovery.lbl.gov/): a CAMERA workshop on math, algorithms and computation for self-driving labs; 
+- invited talk to session [Neural Networks for Image Analysis](https://autonomous-discovery.lbl.gov/agenda/day-1-april-20th);
 
 <table border="0">
  <tr>
