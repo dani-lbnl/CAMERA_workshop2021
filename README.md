@@ -17,19 +17,6 @@ Neural networks became ubiquitous across many image analysis tasks, such as sema
  </tr>
 </table>
 
-Please reference us:
---------------------
-
-<div class="row"> <pre class="col-md-offset-2 col-md-8"> 
-@InProceedings{CAMERA:2021:dani, 
-author = {Daniela Ushizima}, 
-title = {Neural Networks for Scientific Images}, 
-booktitle = {Autonomous Discovery in Science and Engineering}, 
-month = {Apr}, 
-year = {2021}, 
-pages = {1}, 
-publisher = {Center for Advanced Mathematics for Energy Research Applications}, 
-address = {Berkeley, CA}, }</pre> </div>
 
 Dataset examples:
 -----------------
@@ -43,6 +30,7 @@ Newbie? no problem:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imagexd/2019-tutorial-skimage/master)
 
+
 Related publications:
 ---------------------
 
@@ -53,3 +41,17 @@ Related publications:
 -	Siqueira, Ushizima, van de Walt, "Large-scale fiber segmentation on fiber beds using convolutional neural networks", 2021. [[link]](https://arxiv.org/abs/2101.04823)
 
 -	Araujo, Carneiro, Silva, Medeiros, Ushizima, "Convolutional Neural Networks with Tensorflow: theory and practice, p. 382-406. Brazilian Society of Computation Press 2017 [[link]](https://docplayer.com.br/57119969-Redes-neurais-convolucionais-com-tensorflow-teoria-e-pratica.html)
+
+Please reference:
+--------------------
+
+<div class="row"> <pre class="col-md-offset-2 col-md-8"> 
+@InProceedings{CAMERA:2021:dani, 
+author = {Daniela Ushizima}, 
+title = {Neural Networks for Scientific Images}, 
+booktitle = {Autonomous Discovery in Science and Engineering}, 
+month = {Apr}, 
+year = {2021}, 
+pages = {1}, 
+publisher = {Center for Advanced Mathematics for Energy Research Applications}, 
+address = {Berkeley, CA}, }</pre> </div>
